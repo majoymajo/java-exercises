@@ -15,8 +15,8 @@ public class Example {
         System.out.println(currentTime);
     }
 
-    public static int add(int numberOne, int numberTwo) {
-        return numberOne + numberTwo;
+    public static int add(int x, int y) {
+        return x + y;
     }
 
     public static String getFullName(String title, String firstName, String lastName) {
